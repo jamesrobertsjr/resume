@@ -10,3 +10,5 @@ main.fls
 main.fdb_latexmk
 
 main.aux
+
+.DS_Store
